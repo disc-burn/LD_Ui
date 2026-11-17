@@ -1,0 +1,10 @@
+{
+  "description": "An interactive orbital interface with tactile controls and translucent layers, offering a focused, immersive way to explore a particle-driven system.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
